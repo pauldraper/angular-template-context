@@ -1,0 +1,12 @@
+{
+  "angularCompilerOptions": {
+    "fullTemplateTypeCheck": true
+  },
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es5",
+    "lib": ["dom"]
+  }
+}
